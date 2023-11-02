@@ -40,7 +40,7 @@ int main() {
         printf("exp(x) = %.15lf\n", exp_x);
 
         num_runs++;
-        printf("Debug: Num of runs %d\n", num_runs);
+        //printf("Debug: Num of runs %d\n", num_runs);
 
         if (num_runs == 10) {
             break;
